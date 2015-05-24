@@ -5,4 +5,4 @@ Preparation:
 * download compressed raw data
 * unzip raw data and copy the directory 'UCI HAR Dataset' 
 
-Use dplyr package to merge datasets
+Use **dplyr** package to merge datasets
