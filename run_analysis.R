@@ -77,3 +77,8 @@ names(Final)<-Final.headers
 write.table(Final, file = "data/UCI HAR Dataset/Sensor_avg_by_subject.csv", 
             sep = ',',
             row.name=FALSE)
+
+#### Alternatively, txt file
+write.table(Final, file = "data/UCI HAR Dataset/Sensor_avg_by_subject.txt", 
+            row.name=FALSE)
+
