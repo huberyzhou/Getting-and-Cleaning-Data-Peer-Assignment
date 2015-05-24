@@ -19,8 +19,8 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 What you find in this repository
 
-CodeBook.md: information about raw and tidy data set
-README.md: this file
-run_analysis.R: R script to transform raw data set in a tidy one
+* CodeBook.md: information about raw and tidy data set
+* README.md: this file
+* run_analysis.R: R script to transform raw data set in a tidy one
 
 
